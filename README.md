@@ -16,7 +16,7 @@ if __name__ == '__main__':
 Example output for when the user writes "Bye".
 
 ```plaintext
-Write a message:
+Write a message...
 *Bye*
 Bye
 ```
@@ -24,7 +24,7 @@ Bye
 Example output for when the user writes "Once upon a time...".
 
 ```plaintext
-Write a message:
+Write a message...
 *Once upon a time...*
 Once upon a time...
 ```
